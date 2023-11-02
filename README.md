@@ -45,3 +45,14 @@ python3 reproduce_maze_accountability.py
 ```
 python3 reproduce_ward.py
 ```
+
+
+---
+### BibTeX
+```bibtex
+@article{sun2023accountability,
+  title={Accountability in Offline Reinforcement Learning: Explaining Decisions with a Corpus of Examples},
+  author={Sun, Hao and H{\"u}y{\"u}k, Alihan and Jarrett, Daniel and van der Schaar, Mihaela},
+  journal={arXiv preprint arXiv:2310.07747},
+  year={2023}
+}
