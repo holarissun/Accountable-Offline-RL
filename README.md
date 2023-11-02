@@ -1,4 +1,6 @@
-# AccountableBatchedController
+# [NeurIPS'2023] Accountability in Offline Reinforcement Learning: Explaining Decisions with a Corpus of Examples 
+
+## [Paper](https://arxiv.org/pdf/2310.07747.pdf) 
 
 
 ### Requirement
