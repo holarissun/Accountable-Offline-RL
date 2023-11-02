@@ -2,6 +2,9 @@
 
 ## [Paper](https://arxiv.org/pdf/2310.07747.pdf) 
 
+## Key Insight:
+**_Test-time decisions made by an agent should have a decision basis in the training decision dataset. Using a latent space decomposition and similarity-based matching, decisions made by agents in offline reinforcement learning can be interpretable._**
+
 
 ### Requirement
 ```
@@ -13,6 +16,7 @@ medkit-learn==0.1.0
 tqdm
 ```
 
+### To Repruduce Results
 The following code reproduces the results reported in the paper. 
 
 1. To generate a batched dataset, run
