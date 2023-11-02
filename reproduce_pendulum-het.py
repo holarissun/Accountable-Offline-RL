@@ -969,7 +969,7 @@ if __name__ == '__main__':
 
     env_name = args.env_name
     env = gym.make(env_name)
-    init_state = env.reset()[0]
+    init_state = env.reset(options={"x_init": 0, "y_init": 0})[0]
 
     state = init_state
     total_reward = 0
